@@ -1,7 +1,7 @@
 
 ### 普通多模块项目（非组件化、插件化项目）
 
-我们在[Dagger2多模块项目依赖方式选择一]()的基础上改造实现
+我们在[Dagger2多模块项目依赖方式选择一](https://github.com/qq549631030/MultiModuleDagger1/blob/master/README.md)的基础上改造实现
 
 dagger.android的核心思想是在每个Component收集两个Map
 
